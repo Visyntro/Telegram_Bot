@@ -20,8 +20,10 @@ A simple Telegram bot created using Python and the `python-telegram-bot` library
 
 ## Setup
 
-### 1. Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/telegram-bot-project.git
 cd telegram-bot-project
+
+
